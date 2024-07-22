@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-07-22T14:42:43.889Z</updated>
+  <updated>2024-07-22T14:48:21.585Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="http://example.com/2024/07/22/you-zhi-ji-zhu-zi-yuan/"/>
     <id>http://example.com/2024/07/22/you-zhi-ji-zhu-zi-yuan/</id>
     <published>2024-07-22T14:41:33.000Z</published>
-    <updated>2024-07-22T14:42:43.889Z</updated>
+    <updated>2024-07-22T14:48:21.585Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;test测试&quot;&gt;&lt;a href=&quot;#test测试&quot; class=&quot;headerlink&quot; title=&quot;test测试&quot;&gt;&lt;/a&gt;test测试&lt;/h1&gt;&lt;p&gt;test测试&lt;br&gt;More info: &lt;a</summary>
+    <summary type="html">&lt;h2 id=&quot;web2优质资源总结&quot;&gt;&lt;a href=&quot;#web2优质资源总结&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -57,31 +57,6 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>优质学习资源</title>
-    <link href="http://example.com/2024/07/21/hello-blockchain/"/>
-    <id>http://example.com/2024/07/21/hello-blockchain/</id>
-    <published>2024-07-20T16:00:00.000Z</published>
-    <updated>2024-07-22T14:42:59.867Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;test测试&quot;&gt;&lt;a href=&quot;#test测试&quot; class=&quot;headerlink&quot; title=&quot;test测试&quot;&gt;&lt;/a&gt;test测试&lt;/h1&gt;&lt;p&gt;test测试&lt;br&gt;More info: &lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="技术资源" scheme="http://example.com/categories/%E6%8A%80%E6%9C%AF%E8%B5%84%E6%BA%90/"/>
-    
-    
-    <category term="web2" scheme="http://example.com/tags/web2/"/>
     
   </entry>
   
