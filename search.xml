@@ -4,17 +4,23 @@
   
     
     <entry>
-      <title>hello Blockchain</title>
+      <title>优质学习资源</title>
       <link href="/2024/07/21/hello-blockchain/"/>
       <url>/2024/07/21/hello-blockchain/</url>
       
         <content type="html"><![CDATA[<h2 id="优质github资源总结"><a href="#优质github资源总结" class="headerlink" title="优质github资源总结"></a>优质github资源总结</h2><blockquote><p>编程笔记与代码实践</p></blockquote><p><a href="https://github.com/wx-chevalier">https://github.com/wx-chevalier</a></p><blockquote><p>go语言设计模式</p></blockquote><p><a href="https://github.com/mohuishou/go-design-pattern?tab=readme-ov-file">https://github.com/mohuishou/go-design-pattern?tab=readme-ov-file</a></p><blockquote><p>java设计模式</p></blockquote><p><a href="https://github.com/youlookwhat/DesignPattern?tab=readme-ov-file">https://github.com/youlookwhat/DesignPattern?tab=readme-ov-file</a></p><blockquote><p>浙大优质课程课件</p></blockquote><p><a href="https://github.com/QSCTech/zju-icicles">https://github.com/QSCTech/zju-icicles</a></p><blockquote><p>java并发编程</p></blockquote><p><a href="https://github.com/CL0610/Java-concurrency?tab=readme-ov-file">https://github.com/CL0610/Java-concurrency?tab=readme-ov-file</a></p><blockquote><p>Leetcode学习（java/go）</p></blockquote><p><a href="https://github.com/doocs/leetcode?tab=readme-ov-file">https://github.com/doocs/leetcode?tab=readme-ov-file</a></p><blockquote><p>JVM知识点</p></blockquote><p><a href="https://github.com/doocs/jvm?tab=readme-ov-file">https://github.com/doocs/jvm?tab=readme-ov-file</a></p><blockquote><p>java优质源码以及社区学习</p></blockquote><p><a href="https://github.com/doocs/source-code-hunter?tab=readme-ov-file">https://github.com/doocs/source-code-hunter?tab=readme-ov-file</a><br><a href="https://github.com/topics/java"><strong>https://github.com/topics/java</strong></a>** （十分推荐）**<br><a href="https://github.com/akullpp/awesome-java"><strong>https://github.com/akullpp/awesome-java</strong></a>** （十分推荐，优质的java类库，软件）**</p><blockquote><p>go优质资源以及社区学习</p></blockquote><p><a href="https://github.com/topics/go"><strong>https://github.com/topics/go</strong></a><strong>（十分推荐）</strong><br><a href="https://github.com/avelino/awesome-go">https://github.com/avelino/awesome-go</a><strong>（十分推荐，优质的java类库，软件）</strong></p><blockquote><p>区块链优质资源</p></blockquote><p><a href="https://github.com/topics/blockchain">https://github.com/topics/blockchain</a></p><blockquote><p>搭建个人博客网站</p></blockquote><p><a href="https://github.com/blinkfox/hexo-theme-matery/blob/develop/README_CN.md">https://github.com/blinkfox/hexo-theme-matery/blob/develop/README_CN.md</a></p>]]></content>
       
       
+      <categories>
+          
+          <category> 技术资源 </category>
+          
+      </categories>
+      
       
         <tags>
             
-            <tag> Blockchain </tag>
+            <tag> web2 </tag>
             
         </tags>
       
