@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-07-21T11:16:57.136Z</updated>
+  <updated>2024-07-22T14:42:43.889Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>优质技术资源</title>
+    <link href="http://example.com/2024/07/22/you-zhi-ji-zhu-zi-yuan/"/>
+    <id>http://example.com/2024/07/22/you-zhi-ji-zhu-zi-yuan/</id>
+    <published>2024-07-22T14:41:33.000Z</published>
+    <updated>2024-07-22T14:42:43.889Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;test测试&quot;&gt;&lt;a href=&quot;#test测试&quot; class=&quot;headerlink&quot; title=&quot;test测试&quot;&gt;&lt;/a&gt;test测试&lt;/h1&gt;&lt;p&gt;test测试&lt;br&gt;More info: &lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="web2" scheme="http://example.com/tags/web2/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -42,7 +65,7 @@
     <link href="http://example.com/2024/07/21/hello-blockchain/"/>
     <id>http://example.com/2024/07/21/hello-blockchain/</id>
     <published>2024-07-20T16:00:00.000Z</published>
-    <updated>2024-07-22T14:38:51.251Z</updated>
+    <updated>2024-07-22T14:42:59.867Z</updated>
     
     
       
