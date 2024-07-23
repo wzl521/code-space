@@ -3,11 +3,11 @@
   <title>CoderSpace</title>
   
   <subtitle>码客空间</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://www.coderspace.site/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://www.coderspace.site/"/>
   <updated>2024-07-23T14:29:21.315Z</updated>
-  <id>http://example.com/</id>
+  <id>https://www.coderspace.site/</id>
   
   <author>
     <name>wzl521</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>一文了解mev</title>
-    <link href="http://example.com/2024/07/23/mev/"/>
-    <id>http://example.com/2024/07/23/mev/</id>
+    <link href="https://www.coderspace.site/2024/07/23/mev/"/>
+    <id>https://www.coderspace.site/2024/07/23/mev/</id>
     <published>2024-07-23T14:26:30.000Z</published>
     <updated>2024-07-23T14:29:21.315Z</updated>
     
@@ -34,17 +34,17 @@
     
     
     
-    <category term="web3" scheme="http://example.com/categories/web3/"/>
+    <category term="web3" scheme="https://www.coderspace.site/categories/web3/"/>
     
     
-    <category term="mev" scheme="http://example.com/tags/mev/"/>
+    <category term="mev" scheme="https://www.coderspace.site/tags/mev/"/>
     
   </entry>
   
   <entry>
     <title>优质技术资源</title>
-    <link href="http://example.com/2024/07/22/you-zhi-ji-zhu-zi-yuan/"/>
-    <id>http://example.com/2024/07/22/you-zhi-ji-zhu-zi-yuan/</id>
+    <link href="https://www.coderspace.site/2024/07/22/you-zhi-ji-zhu-zi-yuan/"/>
+    <id>https://www.coderspace.site/2024/07/22/you-zhi-ji-zhu-zi-yuan/</id>
     <published>2024-07-22T14:41:33.000Z</published>
     <updated>2024-07-23T03:27:35.314Z</updated>
     
@@ -59,10 +59,10 @@
     
     
     
-    <category term="技术宝典" scheme="http://example.com/categories/%E6%8A%80%E6%9C%AF%E5%AE%9D%E5%85%B8/"/>
+    <category term="技术宝典" scheme="https://www.coderspace.site/categories/%E6%8A%80%E6%9C%AF%E5%AE%9D%E5%85%B8/"/>
     
     
-    <category term="web2" scheme="http://example.com/tags/web2/"/>
+    <category term="web2" scheme="https://www.coderspace.site/tags/web2/"/>
     
   </entry>
   
